@@ -37,4 +37,4 @@ Instead of keeping everything on a single branch, each app is developed on a sep
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/Nishantptl/jetpack-compose-project](https://github.com/Nishantptl/jetpack-compose-project)
