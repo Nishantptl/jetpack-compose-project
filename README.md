@@ -22,6 +22,10 @@ Instead of keeping everything on a single branch, each app is developed on a sep
 * **`Unit-3/AffirmationApp`** - Displays a scrollable list of text and images using `LazyColumn`, focusing on data models and performance-optimized lists.
 * **`Unit-3/GridApp`** - Implements a scrollable grid layout using `LazyVerticalGrid` to display topics or categorized information neatly.
 * **`Unit-3/WoofApp`** - A beautifully styled application displaying a list of dogs. Explores Material Design 3 guidelines, custom themes, shapes, typography, and simple explicit animations (`animateContentSize`).
+* **`Unit-3/SuperHeroesApp`** - A practice project implementing a clean list layout of superheroes, reinforcing Material 3 customization, custom typography, and card designs.
+
+### 🔹 Unit 4: Architecture and App Navigation
+* **`Unit-4/UnscrambleGame`** - Built during Pathway 1 (State Management in Compose). Focuses on modern Android architecture by separating UI from business logic using a **ViewModel** and **StateFlow** within a word unscrambling game.
 
 ---
 
